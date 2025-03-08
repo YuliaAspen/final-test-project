@@ -1,4 +1,5 @@
 import order_functions
+# Юлия Осина 27 когорта — Финальный проект. Инженер по тестированию плюс
 
 def test_get_order():
     new_order_response = order_functions.post_new_order()
